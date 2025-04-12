@@ -1,4 +1,5 @@
 # Hi! It's Kyosika!
+
 ## Today, I decided to make a bar animation simulator!
 
 # How to contribute
