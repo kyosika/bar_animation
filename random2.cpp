@@ -5,7 +5,7 @@
 int main()
 {
         srand(time(NULL));
-auto seconds = std::rand() % 500;
+auto seconds = std::rand() % 500 + 1;
 
     int counter = std::rand() % 125 + 1;
     for(int i = 0; i < counter; i++){
