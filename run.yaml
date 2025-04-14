@@ -1,0 +1,6 @@
+name: Run Progress Config
+on: [push, pull_request]
+
+steps:
+- name: bar_animation
+run: bar_animation
